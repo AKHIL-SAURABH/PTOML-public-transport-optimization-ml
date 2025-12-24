@@ -131,18 +131,20 @@ This validates the effectiveness of **ML-driven transport optimization**.
 
 ## 🖥️ Screenshots
 
-_Add screenshots here after uploading them to the repository:_
+### SWAGGER UI BACKEND:
+![SWAGGER](https://github.com/AKHIL-SAURABH/PTOML-public-transport-optimization-ml/blob/main/screenshots/high.jpg)
 
+---
+### HIGH CROWD LEVEL WITH ETA:
+![HIGH](https://github.com/AKHIL-SAURABH/PTOML-public-transport-optimization-ml/blob/main/screenshots/high.jpg)
 
-/screenshots/dashboard.png
-/screenshots/swagger_api.png
+---
+### LOW CROWD LEVEL WITH ETA:
+![HIGH](https://github.com/AKHIL-SAURABH/PTOML-public-transport-optimization-ml/blob/main/screenshots/low.jpg)
 
-
-
-Recommended screenshots:
-- Streamlit dashboard UI
-- Swagger `/predict` endpoint
-- Sample prediction output
+---
+### MWDIUM CROWD LEVEL WITH ETA:
+![HIGH](https://github.com/AKHIL-SAURABH/PTOML-public-transport-optimization-ml/blob/main/screenshots/medium.jpg)
 
 ---
 

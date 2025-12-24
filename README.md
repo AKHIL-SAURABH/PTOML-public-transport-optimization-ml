@@ -132,7 +132,7 @@ This validates the effectiveness of **ML-driven transport optimization**.
 ## 🖥️ Screenshots
 
 ### SWAGGER UI BACKEND:
-![SWAGGER](https://github.com/AKHIL-SAURABH/PTOML-public-transport-optimization-ml/blob/main/screenshots/high.jpg)
+![SWAGGER](https://github.com/AKHIL-SAURABH/PTOML-public-transport-optimization-ml/blob/main/screenshots/Screenshot_24-12-2025_163253_127.0.0.1.jpeg)
 
 ---
 ### HIGH CROWD LEVEL WITH ETA:
